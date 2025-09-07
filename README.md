@@ -13,10 +13,22 @@ Aqui podem ser encontrados exemplos, protótipos, scripts, utilitários e anota�
 
 Sinta-se à vontade para explorar, reutilizar e contribuir com novos experimentos!
 
+## Regras de Organização
+
+- Cada pasta de experimento ou projeto deve conter seu próprio arquivo `README.md` explicando o propósito, instruções de uso e outras informações relevantes.
+
+### Regras pyhton
+
+- Todos os exemplos deverão ter um requirements.txt
+- Sempre usar venvs
+- Preferência por python3.10 acima
+- Adicionar informações de como subir o projeto no readme da pasta
+
 ## Índice de Projetos e Experimentos
 
 Abaixo está o índice para facilitar a navegação e organização dos experimentos e projetos presentes neste repositório. Adicione aqui os links para novas pastas, arquivos ou seções conforme forem sendo criados:
 
+- [Streamlit - Experimentos com Streamlit](./streamlit/)
 - [Exemplo de Projeto 1](#)
 - [Exemplo de Script 2](#)
 - [Exemplo de Ferramenta 3](#)
